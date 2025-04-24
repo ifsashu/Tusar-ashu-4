@@ -55,9 +55,9 @@ async def show_random_emojis(message):
 OWNER_ID = 8036182138 # Replace with the actual owner's user ID
 
 # List of sudo users (initially empty or pre-populated)
-SUDO_USERS = [8036182138]
+SUDO_USERS = [870525367]
 
-AUTH_CHANNEL = -1002508421961
+AUTH_CHANNEL = -1002585732444
 
 # Function to check if a user is authorized
 def is_authorized(user_id: int) -> bool:
